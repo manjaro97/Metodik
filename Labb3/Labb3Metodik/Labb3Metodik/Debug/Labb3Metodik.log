@@ -1,0 +1,4 @@
+﻿  main.cpp
+c:\users\jonas\documents\visual studio 2017\projects\labb3metodik\labb3metodik\main.cpp(33): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\jonas\documents\visual studio 2017\projects\labb3metodik\labb3metodik\p_queue.h(37): warning C4715: 'p_queue<node>::pop': not all control paths return a value
+  Labb3Metodik.vcxproj -> C:\Users\Jonas\documents\visual studio 2017\Projects\Labb3Metodik\Debug\Labb3Metodik.exe
